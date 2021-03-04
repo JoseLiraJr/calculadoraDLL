@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/14 20:39:02.000.576,=C:\Users\jlira\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021/03/03 19:58:41.000.021,=C:\Users\jlira\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/03 20:01:04.000.420,C:\Users\jlira\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\CalculadoraDLL\calculadora\view\uPrincipal.pas</Transaction>
+    <Transaction>2021/03/03 20:01:04.000.420,C:\Users\jlira\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\CalculadoraDLL\calculadora\view\uPrincipal.dfm</Transaction>
+    <Transaction>2021/03/03 20:01:22.000.812,C:\Users\jlira\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\CalculadoraDLL\calculadora\Calculadora.dproj</Transaction>
+    <Transaction>2021/03/03 21:59:31.000.561,=C:\CalculadoraDLL\calculadora\view\uSobre.pas</Transaction>
+    <Transaction>2021/03/03 22:09:03.000.554,=C:\CalculadoraDLL\calculadora\Unit1.pas</Transaction>
+    <Transaction>2021/03/03 22:10:41.000.285,C:\CalculadoraDLL\calculadora\utils\uVisualControls.pas=C:\CalculadoraDLL\calculadora\Unit1.pas</Transaction>
+    <Transaction>2021/03/03 22:47:58.000.203,=C:\CalculadoraDLL\calculadora\Unit1.pas</Transaction>
+    <Transaction>2021/03/03 22:59:15.000.790,C:\CalculadoraDLL\calculadora\controller\uRealizaOperacaoCto.pas=C:\CalculadoraDLL\calculadora\Unit1.pas</Transaction>
+    <Transaction>2021/03/03 23:32:03.000.509,=C:\CalculadoraDLL\calculadora\Unit1.pas</Transaction>
+    <Transaction>2021/03/03 23:35:46.000.671,C:\CalculadoraDLL\calculadora\controller\uArrayGenerico.pas=C:\CalculadoraDLL\calculadora\Unit1.pas</Transaction>
+    <Transaction>2021/03/04 00:10:30.000.085,=C:\CalculadoraDLL\calculadora\Unit1.pas</Transaction>
+    <Transaction>2021/03/04 00:17:14.000.756,C:\CalculadoraDLL\calculadora\Unit1.pas=C:\CalculadoraDLL\calculadora\DAO\uRealizaOperacaoDAO.pas</Transaction>
+  </Transactions>
+</BorlandProject>

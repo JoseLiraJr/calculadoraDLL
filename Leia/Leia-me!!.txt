@@ -1,0 +1,12 @@
+Calculadora Numérica
+----------------------------------------------
+O Sistema foi desenvolvido com fins didáticos e como parte de processo seletivo da empresa Runtec Informática, o objetivo do mesmo é apresentar de forma prática uma calculadora que realiza as quatro operações básicas da matemática, por meio do consumo de uma DLL.  
+
+Foi utilizado a linguagem de programação Object Pascal, a IDE Embarcadero® Delphi 10.3 Version 26.0.36039.7899.
+
+Foi utilizado no que coube ao projeto a arquitetura MVC (Parcial), implementada apenas a camada de visualização (View).
+
+O Sistema foi feito usando o paradigma de programação Orientado a Objetos. 
+
+
+@Autor: José Batista Lira Júnior
