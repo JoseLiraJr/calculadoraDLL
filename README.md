@@ -2,7 +2,7 @@
 <p align="center">Calculadora numérica das operações básicas a partir de DLL</p>
 
 
-O  objetivo do mesmo é apresentar de forma prática uma calculadora que realiza as quatro operações básicas da matemática, por meio do consumo de uma DLL. 
+O  objetivo do projeto é apresentar de forma prática uma calculadora que realiza as quatro operações básicas da matemática, por meio do consumo de uma DLL. 
 
 ### 🛠 Tecnologias
 
